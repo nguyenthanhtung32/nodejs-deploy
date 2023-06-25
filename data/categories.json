@@ -1,0 +1,5 @@
+[
+  { "name": "Car", "description": "Xe", "id": 1 },
+  { "name": "Toys", "description": "Đồ Chơi", "id": 2 },
+  { "name": "Fashion", "description": "Thời Trang", "id": 4 }
+]
